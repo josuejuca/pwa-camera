@@ -1,0 +1,23 @@
+{
+    "short_name": "Camera PWA",
+    "name": "Camera Progressive Web App",
+    "icons": [
+      {
+        "src": "./assets/icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./assets/icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#ffffff",
+    "orientation": "portrait"
+  }
+  
